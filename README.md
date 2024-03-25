@@ -1,6 +1,6 @@
 # ProtoClick
 
-![ProtoClick Logo](link_para_o_logo.png)
+![ProtoClick Logo](https://github.com/andrefods1993/ProtoClick/blob/main/assets/icons/logo_protoclick.png?raw=true)
 
 ProtoClick é uma aplicação desenvolvida em Python com o framework PySide6 e Qt Creator, projetada para simplificar e aprimorar o processo de protocolos de atendimento. A aplicação oferece uma interface intuitiva e eficiente para criar protocolos, armazenar dados, otimizar relatórios com IA e compartilhar via PDF, Word e WhatsApp.
 
